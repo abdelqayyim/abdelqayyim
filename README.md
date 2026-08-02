@@ -2,13 +2,13 @@
 
 <p align="center">
 <a href="https://github.com/abdelqayyim">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=560&lines=Aspiring+Software+Engineer;Into+DevOps%2C+Cloud+%26+Distributed+Systems;Building+reliable%2C+scalable+backends" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E7681&center=true&vCenter=true&width=560&lines=Software+Engineering+Enthusiast;Into+DevOps%2C+Cloud+%26+Distributed+Systems;Building+reliable%2C+scalable+backends" alt="Typing SVG" />
 </a>
 </p>
 
 <p align="center">
-A developer gravitating toward software engineering — with a growing focus on<br/>
-backend systems, DevOps, cloud infrastructure, and how distributed systems scale.
+A developer passionate about software engineering — backend systems, DevOps,<br/>
+cloud infrastructure, and how distributed systems scale.
 </p>
 
 ---
