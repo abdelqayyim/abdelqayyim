@@ -29,8 +29,7 @@ Most of what I build is full-stack web — Chrome extensions, note-taking tools,
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdelqayyim&show_icons=true&hide_border=true&title_color=6E7681&icon_color=6E7681&text_color=768390&bg_color=00000000" alt="Abdel's GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelqayyim&layout=compact&hide_border=true&title_color=6E7681&text_color=768390&bg_color=00000000" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=abdelqayyim&hide_border=true&background=00000000&stroke=D0D7DE&ring=6E7681&fire=6E7681&currStreakNum=768390&currStreakLabel=6E7681&sideNums=768390&sideLabels=768390&dates=768390" alt="GitHub streak stats" />
 </p>
 
 <p align="center">🌱 Currently leveling up my React and backend skills — always open to learning something new.</p>
