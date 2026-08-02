@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-A student developer moving toward software engineering — with a growing focus on<br/>
+A developer gravitating toward software engineering — with a growing focus on<br/>
 backend systems, DevOps, cloud infrastructure, and how distributed systems scale.
 </p>
 
